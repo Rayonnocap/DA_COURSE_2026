@@ -18,7 +18,7 @@ cd TASK1
 ```sh
 python3 -m venv .
 source ./bin/activate
-pip install -r requirements.txt
+pip install -r requirments.txt
 ```
 
 **Запускаем программу:**
