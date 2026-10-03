@@ -10,6 +10,7 @@
 ```sh
 git clone https://github.com/Rayonnocap/DA_COURSE_2026.git
 cd DA_COURSE_2026
+cd TASK1
 ```
 
 **Устанавливаем зависимости:**
